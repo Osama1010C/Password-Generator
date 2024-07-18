@@ -1,0 +1,5 @@
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Password Genrator\Password Genrator\bin\Release\net8.0\app.publish\Password Genrator.exe
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Password Genrator\Password Genrator\bin\Release\net8.0\app.publish\Password Genrator.dll
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Password Genrator\Password Genrator\bin\Release\net8.0\app.publish\Password Genrator.deps.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Password Genrator\Password Genrator\bin\Release\net8.0\app.publish\Password Genrator.runtimeconfig.json
+C:\Osama_Code\.Net\C#\Projects\Small Projects\Password Genrator\Password Genrator\bin\Release\net8.0\app.publish\Password Genrator.pdb
